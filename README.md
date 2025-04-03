@@ -20,12 +20,13 @@ Este é um jogo de Pedra, Papel e Tesoura desenvolvido em Flutter. O jogo permit
 - Botão para reiniciar o placar.
 
 ## 📷 Imagens do Projeto
-> Adicione capturas de tela do aplicativo em execução.
+
+![Demonstração do Jogo](gif.gif)
 
 ## 🔧 Como Executar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seuusuario/jokenpo-flutter.git
+   git clone https://github.com/thalesleall/dev_mob_jocken-po.git
    ```
 2. Navegue até a pasta do projeto:
    ```sh
@@ -39,6 +40,7 @@ Este é um jogo de Pedra, Papel e Tesoura desenvolvido em Flutter. O jogo permit
    ```sh
    flutter run
    ```
+
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo.
