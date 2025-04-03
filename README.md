@@ -1,19 +1,51 @@
-# joceknpo
+# JokenPo Flutter
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## 📌 Sobre o Projeto
+Este é um jogo de Pedra, Papel e Tesoura desenvolvido em Flutter. O jogo permite ao usuário jogar contra a IA, exibindo as escolhas na tela e mantendo um placar de vitórias.
 
-## Getting Started
+## 🚀 Funcionalidades
+- Exibe a escolha do usuário e da IA.
+- Contabiliza a pontuação de ambos os jogadores.
+- Indica o vencedor da rodada com cores distintas para facilitar a identificação.
+- Permite reiniciar o placar.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tecnologias Utilizadas
+- Flutter
+- Dart
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## 🎨 Melhorias na Usabilidade
+- Adição de placar para acompanhar as vitórias.
+- Feedback visual colorido para indicar vitória, derrota ou empate.
+- Nome das opções abaixo das imagens para melhor identificação.
+- Botão para reiniciar o placar.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Imagens do Projeto
+> Adicione capturas de tela do aplicativo em execução.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## 🔧 Como Executar
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/seuusuario/jokenpo-flutter.git
+   ```
+2. Navegue até a pasta do projeto:
+   ```sh
+   cd jokenpo-flutter
+   ```
+3. Instale as dependências:
+   ```sh
+   flutter pub get
+   ```
+4. Execute o aplicativo:
+   ```sh
+   flutter run
+   ```
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## 📄 Licença
+Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo.
+
+## 🤝 Contribuição
+Se quiser contribuir com melhorias, sinta-se à vontade para abrir um PR ou relatar issues!
+
+---
+Desenvolvido com ❤️ usando Flutter.
+
